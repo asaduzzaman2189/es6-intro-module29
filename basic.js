@@ -14,7 +14,7 @@ else if (deposit == 500) {
 else if (deposit != 500) {
 
 }
-else if (deposit >=) {
+else if (deposit >= 500) {
 
 }
 else if (deposit <= 500) {
@@ -31,7 +31,7 @@ numbers.pop();
 numbers.push(111);
 numbers[2] = 555;
 //check whether included in the array
-if (numbers.indexOf(222))!= -1) {
+if (numbers.indexOf(222) != -1) {
 
 }
 
